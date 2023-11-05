@@ -6,7 +6,7 @@
 
 ![image](https://github.com/Its-Rawat/SmartCrawler/assets/133390033/2d455e76-10f1-4adf-95f3-a5348e6f1930)
 
-## 2. Store Data in Excel if No Cedential of Database is Given or The Database is Full.
+## 2. Store Data in Excel if No Credentials of Database is Given or The Database is Full.
 ![image](https://github.com/Its-Rawat/SmartCrawler/assets/133390033/dce97515-59b5-43db-856b-6df8cb742cea)
 
 
